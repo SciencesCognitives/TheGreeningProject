@@ -13,6 +13,7 @@
   <objects name="objects">
     <object>objects\Jo</object>
     <object>objects\jerem</object>
+    <object>objects\Matt</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
