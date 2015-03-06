@@ -7,15 +7,22 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\testMatt</sprite>
+    <sprite>sprites\sprite1</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
   <objects name="objects">
     <object>objects\Jo</object>
     <object>objects\jerem</object>
     <object>objects\Matt</object>
     <object>objects\em</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
