@@ -8,8 +8,12 @@
   <sprites name="sprites">
     <sprite>sprites\testMatt</sprite>
     <sprite>sprites\sprite1</sprite>
+    <sprite>sprites\banquise_sprite</sprite>
+    <sprite>sprites\personnage_sprite</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
     <font>fonts\font0</font>
@@ -19,6 +23,8 @@
     <object>objects\jerem</object>
     <object>objects\Matt</object>
     <object>objects\em</object>
+    <object>objects\banquise</object>
+    <object>objects\personnage</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
