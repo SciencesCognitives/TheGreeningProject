@@ -19,10 +19,6 @@
     <font>fonts\font0</font>
   </fonts>
   <objects name="objects">
-    <object>objects\Jo</object>
-    <object>objects\jerem</object>
-    <object>objects\Matt</object>
-    <object>objects\em</object>
     <object>objects\banquise</object>
     <object>objects\personnage</object>
   </objects>
