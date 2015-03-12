@@ -10,7 +10,6 @@
     <sprite>sprites\sprite1</sprite>
     <sprite>sprites\banquise_sprite</sprite>
     <sprite>sprites\personnage_sprite</sprite>
-    <sprite>sprites\invisible_sprite</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -21,6 +20,10 @@
   </fonts>
   <objects name="objects">
     <object>objects\banquise</object>
+<<<<<<< HEAD
+=======
+    <object>objects\personnage</object>
+>>>>>>> parent of 6eb0d8a... Personnage qui tombe dans l'eau
   </objects>
   <rooms name="rooms"/>
   <help>
