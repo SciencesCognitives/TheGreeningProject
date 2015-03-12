@@ -10,6 +10,7 @@
     <sprite>sprites\sprite1</sprite>
     <sprite>sprites\banquise_sprite</sprite>
     <sprite>sprites\personnage_sprite</sprite>
+    <sprite>sprites\invisible_sprite</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -20,11 +21,8 @@
   </fonts>
   <objects name="objects">
     <object>objects\banquise</object>
-    <object>objects\personnage</object>
   </objects>
-  <rooms name="rooms">
-    <room>rooms\room0</room>
-  </rooms>
+  <rooms name="rooms"/>
   <help>
     <rtf>help.rtf</rtf>
   </help>
